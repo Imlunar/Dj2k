@@ -1,0 +1,14 @@
+{
+    "EMAIL" : null,
+    "OWNER" : "289977818757201941",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        "!"
+    ],
+    "TOKEN" : "MzI0NzY1MTMxNDAzNjg5OTg0.DCOeEQ.76axkAB_0TFzgZWoDPFptEG1M4I",
+    "default" : {
+        "ADMIN_ROLE" : "Mexicano",
+        "MOD_ROLE" : "Mexicano",
+        "PREFIXES" : []
+    }
+}
